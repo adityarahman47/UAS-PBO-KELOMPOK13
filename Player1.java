@@ -7,7 +7,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @version (a version number or a date)
  */
 public class Player1 extends Actor
-{   private int score = 0; // Inisialisasi skor awal
+{   
     int lastNameNo = 1; // Nomor terakhir untuk animasi
     int animationDelay = 5; // Penundaan animasi
     public int jumlahFoodDimakan = 0; // Jumlah makanan yang dimakan
@@ -111,7 +111,7 @@ public class Player1 extends Actor
         }
         
         // Menampilkan layar menang jika jumlah makanan mencapai 20
-        if(jumlahFoodDimakan == 2)
+        if(jumlahFoodDimakan == 5)
         {
             Level1 level1 = (Level1)getWorld();
             level1.musicWin(); // Memainkan musik menang
