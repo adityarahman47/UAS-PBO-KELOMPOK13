@@ -71,7 +71,7 @@ public class Player2 extends Player1
         }
         
         // Menampilkan layar menang jika jumlah makanan mencapai 20
-        if(jumlahFoodDimakan == 2)
+        if(jumlahFoodDimakan == 10)
         {
             Level2 level2 = (Level2)getWorld();
             level2.musicWin(); // Memainkan musik menang
