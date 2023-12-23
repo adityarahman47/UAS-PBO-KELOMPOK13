@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+PROJECT UAS PBO KELOMPOK 13
+MEMBUAT GAME SEDERHANA MENGGUNAKAN GREENFOOT
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE               : Little OctoLife 
+PURPOSE OF PROJECT          : Untuk Memenuhi Nilai Ujian Akhir Semester Mata Kuliah Pemrograman Berorientasi Object
+VERSION or DATE             : 23 - Desember - 2023
+AUTHORS                     : 1. Muhammad Aditya Rahman / 2211102441217
+                              2. Maliq Yazid Imani / 2211102441082
+                              3. Renaldi Yoga Rendy Menono / 2211102441147
+USER INSTRUCTIONS           : Greenfoot
