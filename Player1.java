@@ -106,8 +106,8 @@ public class Player1 extends Actor
             Lose lose = new Lose();
             Greenfoot.setWorld(lose);
             
-            Level2 level2 = (Level2) getWorld();
-            level2.musicLose(); // Memainkan musik kalah
+            Level1 level1 = (Level1) getWorld();
+            level1.musicLose(); // Memainkan musik kalah
         }
         
         // Menampilkan layar menang jika jumlah makanan mencapai 20
